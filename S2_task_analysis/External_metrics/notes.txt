@@ -1,0 +1,4 @@
+The scooped weight was measured at the end of the experiment for each subject. The average scooped weight per demonstration is computed given the total number of demonstrations.
+
+The use of visual feedback (i.e. was the subject able to see what he/she was scooping vs. the arm pointing downwards) was determined by looking at individual videos of the dmeonstrations and annotating by hand.
+
