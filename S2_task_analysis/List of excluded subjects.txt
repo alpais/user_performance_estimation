@@ -1,0 +1,22 @@
+
+Excluded Subjects
+-----------------
+S 1,2,3     >> no TF recorded
+S 06		>> no Hand JA, no Tool FT in D 1:6, 11
+S 12		>> no hand JA, no tactile
+S 15        >> no Tool FT
+S 16		>> no hand JA
+S 23		>> no finger JA, no tactile
+S 26		>> no finger JA, no tactile
+S 28		>> no hand JA
+S 42		>> no hand JA
+S 43		>> no hand JA, no tactile, no Robot, no FT
+
+Partial data
+--------------
+S 04	  	>> no Tool FT
+S 05	  	>> no Tool FT
+S 07 		>> no hand JA in D4
+S 35        >> no FT in D1, D2
+S 25        >> no FT in D1, D2
+S 29		>> no JA in D1
