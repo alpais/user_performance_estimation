@@ -1,0 +1,5 @@
+type: user
+observer: jacob
+directory: E:\VIDEO_RATING\S18\Videos
+videos: E:\VIDEO_RATING\S18\Videos\S18_Demo_01.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_02.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_03.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_04.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_05.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_06.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_07.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_08.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_09.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_10.mp4  E:\VIDEO_RATING\S18\Videos\S18_Demo_11.mp4
+answers: 3,1,2,3

@@ -1,0 +1,4 @@
+type: trial
+observer: walid
+video: C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S07\Videos\S07_Demo_14.mp4
+answers: 1,2,2,2

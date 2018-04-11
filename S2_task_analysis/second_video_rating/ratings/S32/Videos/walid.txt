@@ -1,0 +1,5 @@
+type: user
+observer: walid
+directory: C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos
+videos: C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_01.mp4  C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_02.mp4  C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_03.mp4  C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_04.mp4  C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_05.mp4  C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_06.mp4  C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_07.mp4  C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_08.mp4  C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_09.mp4  C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S32\Videos\S32_Demo_10.mp4
+answers: 4,1,1,2

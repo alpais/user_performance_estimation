@@ -1,0 +1,4 @@
+type: trial
+observer: jacob
+video: E:\VIDEO_RATING\S18\Videos\S18_Demo_04.mp4
+answers: 2,1,2,2

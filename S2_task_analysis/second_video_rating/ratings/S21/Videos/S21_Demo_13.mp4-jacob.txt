@@ -1,0 +1,4 @@
+type: trial
+observer: jacob
+video: E:\VIDEO_RATING\S21\Videos\S21_Demo_13.mp4
+answers: 2,1,2,2

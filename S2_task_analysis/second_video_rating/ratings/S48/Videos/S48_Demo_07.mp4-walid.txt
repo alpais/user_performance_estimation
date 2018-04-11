@@ -1,0 +1,4 @@
+type: trial
+observer: walid
+video: C:\Users\Amanhoud Walid\Desktop\VIDEO_RATING\S48\Videos\S48_Demo_07.mp4
+answers: 2,1,2,2

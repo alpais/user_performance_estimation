@@ -1,0 +1,4 @@
+type: trial
+observer: jacob
+video: E:\VIDEO_RATING\S50\Videos\S50_Demo_05.mp4
+answers: 2,1,2,2

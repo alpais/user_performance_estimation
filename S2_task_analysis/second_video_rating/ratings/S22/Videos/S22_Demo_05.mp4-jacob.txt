@@ -1,0 +1,4 @@
+type: trial
+observer: jacob
+video: E:\VIDEO_RATING\S22\Videos\S22_Demo_05.mp4
+answers: 2,2,2,2
