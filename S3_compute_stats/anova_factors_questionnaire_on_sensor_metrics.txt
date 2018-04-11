@@ -1,0 +1,82 @@
+F = 4.313, p-value = 0.045, Factor: 51 - Gender; Metric: column 8 - Sgm_Duration  <<<<< Significant
+F = 4.325, p-value = 0.045, Factor: 51 - Gender; Metric: column 44 - maxF_Z  <<<<< Significant
+F = 4.192, p-value = 0.001, Factor: 52 - Age; Metric: column 10 - RF_Passive  <<<<< Significant
+F = 2.718, p-value = 0.018, Factor: 52 - Age; Metric: column 19 - Stiff_P_Y  <<<<< Significant
+F = 2.698, p-value = 0.019, Factor: 52 - Age; Metric: column 78 - NVR_Manage_Setup  <<<<< Significant
+F = 3.155, p-value = 0.027, Factor: 53 - Easy teach; Metric: column 20 - Stiff_P_Z  <<<<< Significant
+F = 2.734, p-value = 0.046, Factor: 53 - Easy teach; Metric: column 24 - meanGQ_X  <<<<< Significant
+F = 4.027, p-value = 0.009, Factor: 53 - Easy teach; Metric: column 31 - minGQ_Y  <<<<< Significant
+F = 3.733, p-value = 0.013, Factor: 53 - Easy teach; Metric: column 36 - maxGQ_X  <<<<< Significant
+F = 3.157, p-value = 0.027, Factor: 53 - Easy teach; Metric: column 41 - maxGQ_RZ  <<<<< Significant
+F = 3.935, p-value = 0.010, Factor: 53 - Easy teach; Metric: column 78 - NVR_Manage_Setup  <<<<< Significant
+F = 2.977, p-value = 0.034, Factor: 53 - Easy teach; Metric: column 80 - NVR_Mov_Pb  <<<<< Significant
+F = 2.726, p-value = 0.046, Factor: 54 - Familiar_w_tool; Metric: column 10 - RF_Passive  <<<<< Significant
+F = 3.074, p-value = 0.030, Factor: 54 - Familiar_w_tool; Metric: column 11 - RF_Active  <<<<< Significant
+F = 2.737, p-value = 0.046, Factor: 54 - Familiar_w_tool; Metric: column 24 - meanGQ_X  <<<<< Significant
+F = 4.133, p-value = 0.008, Factor: 54 - Familiar_w_tool; Metric: column 36 - maxGQ_X  <<<<< Significant
+F = 6.592, p-value = 0.001, Factor: 55 - Self_Rating; Metric: column 9 - Subsegments  <<<<< Significant
+F = 3.270, p-value = 0.033, Factor: 55 - Self_Rating; Metric: column 14 - Var_Int_P_Z  <<<<< Significant
+F = 3.836, p-value = 0.031, Factor: 57 - difficult_aspect; Metric: column 23 - Stiff_A_Z  <<<<< Significant
+F = 3.473, p-value = 0.042, Factor: 57 - difficult_aspect; Metric: column 26 - meanGQ_Z  <<<<< Significant
+F = 4.774, p-value = 0.015, Factor: 57 - difficult_aspect; Metric: column 38 - maxGQ_Z  <<<<< Significant
+F = 10.701, p-value = 0.002, Factor: 58 - Handedness; Metric: column 26 - meanGQ_Z  <<<<< Significant
+F = 9.025, p-value = 0.005, Factor: 58 - Handedness; Metric: column 32 - minGQ_Z  <<<<< Significant
+F = 6.659, p-value = 0.014, Factor: 58 - Handedness; Metric: column 38 - maxGQ_Z  <<<<< Significant
+F = 8.473, p-value = 0.006, Factor: 58 - Handedness; Metric: column 39 - maxGQ_RX  <<<<< Significant
+F = 4.006, p-value = 0.027, Factor: 59 - overall_impression; Metric: column 21 - Stiff_A_X  <<<<< Significant
+F = 2.877, p-value = 0.038, Factor: 60 - use_system_frequently; Metric: column 4 - Scooped_Weight  <<<<< Significant
+F = 2.734, p-value = 0.046, Factor: 60 - use_system_frequently; Metric: column 6 - Total_demos  <<<<< Significant
+F = 2.865, p-value = 0.039, Factor: 60 - use_system_frequently; Metric: column 9 - Subsegments  <<<<< Significant
+F = 3.044, p-value = 0.042, Factor: 61 - system_too_complex; Metric: column 24 - meanGQ_X  <<<<< Significant
+F = 3.448, p-value = 0.028, Factor: 61 - system_too_complex; Metric: column 41 - maxGQ_RZ  <<<<< Significant
+F = 2.993, p-value = 0.033, Factor: 62 - system_easy_to_use; Metric: column 21 - Stiff_A_X  <<<<< Significant
+F = 4.777, p-value = 0.004, Factor: 63 - need_technical_support; Metric: column 5 - Total_Time  <<<<< Significant
+F = 5.610, p-value = 0.002, Factor: 63 - need_technical_support; Metric: column 8 - Sgm_Duration  <<<<< Significant
+F = 3.318, p-value = 0.022, Factor: 63 - need_technical_support; Metric: column 22 - Stiff_A_Y  <<<<< Significant
+F = 2.696, p-value = 0.048, Factor: 63 - need_technical_support; Metric: column 33 - minGQ_RX  <<<<< Significant
+F = 4.328, p-value = 0.007, Factor: 64 - system_well_integrated; Metric: column 36 - maxGQ_X  <<<<< Significant
+F = 41.486, p-value = 0.000, Factor: 64 - system_well_integrated; Metric: column 47 - maxT_Z  <<<<< Significant
+F = 3.110, p-value = 0.040, Factor: 65 - system_inconsistency; Metric: column 4 - Scooped_Weight  <<<<< Significant
+F = 3.218, p-value = 0.035, Factor: 66 - people_would_learn_to_use_this_system_quickly; Metric: column 20 - Stiff_P_Z  <<<<< Significant
+F = 3.694, p-value = 0.021, Factor: 66 - people_would_learn_to_use_this_system_quickly; Metric: column 21 - Stiff_A_X  <<<<< Significant
+F = 5.376, p-value = 0.004, Factor: 66 - people_would_learn_to_use_this_system_quickly; Metric: column 28 - meanGQ_RY  <<<<< Significant
+F = 5.383, p-value = 0.004, Factor: 66 - people_would_learn_to_use_this_system_quickly; Metric: column 29 - meanGQ_RZ  <<<<< Significant
+F = 14.080, p-value = 0.000, Factor: 66 - people_would_learn_to_use_this_system_quickly; Metric: column 33 - minGQ_RX  <<<<< Significant
+F = 6.249, p-value = 0.002, Factor: 66 - people_would_learn_to_use_this_system_quickly; Metric: column 34 - minGQ_RY  <<<<< Significant
+F = 3.156, p-value = 0.038, Factor: 66 - people_would_learn_to_use_this_system_quickly; Metric: column 35 - minGQ_RZ  <<<<< Significant
+F = 4.403, p-value = 0.010, Factor: 66 - people_would_learn_to_use_this_system_quickly; Metric: column 40 - maxGQ_RY  <<<<< Significant
+F = 3.591, p-value = 0.024, Factor: 66 - people_would_learn_to_use_this_system_quickly; Metric: column 41 - maxGQ_RZ  <<<<< Significant
+F = 3.359, p-value = 0.021, Factor: 67 - system_cumbersome; Metric: column 15 - Var_Int_A_X  <<<<< Significant
+F = 2.995, p-value = 0.033, Factor: 67 - system_cumbersome; Metric: column 17 - Var_Int_A_Z  <<<<< Significant
+F = 2.925, p-value = 0.048, Factor: 68 - confident_w_system; Metric: column 6 - Total_demos  <<<<< Significant
+F = 2.942, p-value = 0.047, Factor: 68 - confident_w_system; Metric: column 13 - Var_Int_P_Y  <<<<< Significant
+F = 3.812, p-value = 0.019, Factor: 68 - confident_w_system; Metric: column 36 - maxGQ_X  <<<<< Significant
+F = 3.146, p-value = 0.038, Factor: 69 - neeed_prior_learning; Metric: column 4 - Scooped_Weight  <<<<< Significant
+F = 6.693, p-value = 0.001, Factor: 69 - neeed_prior_learning; Metric: column 28 - meanGQ_RY  <<<<< Significant
+F = 4.929, p-value = 0.006, Factor: 69 - neeed_prior_learning; Metric: column 29 - meanGQ_RZ  <<<<< Significant
+F = 3.109, p-value = 0.040, Factor: 69 - neeed_prior_learning; Metric: column 34 - minGQ_RY  <<<<< Significant
+F = 9.520, p-value = 0.000, Factor: 69 - neeed_prior_learning; Metric: column 40 - maxGQ_RY  <<<<< Significant
+F = 2.594, p-value = 0.023, Factor: 70 - TLX_mental_demand; Metric: column 18 - Stiff_P_X  <<<<< Significant
+F = 2.204, p-value = 0.049, Factor: 70 - TLX_mental_demand; Metric: column 30 - minGQ_X  <<<<< Significant
+F = 2.362, p-value = 0.036, Factor: 70 - TLX_mental_demand; Metric: column 40 - maxGQ_RY  <<<<< Significant
+F = 10.004, p-value = 0.000, Factor: 70 - TLX_mental_demand; Metric: column 46 - maxT_Y  <<<<< Significant
+F = 15.646, p-value = 0.000, Factor: 70 - TLX_mental_demand; Metric: column 47 - maxT_Z  <<<<< Significant
+F = 3.014, p-value = 0.011, Factor: 70 - TLX_mental_demand; Metric: column 78 - NVR_Manage_Setup  <<<<< Significant
+F = 2.249, p-value = 0.043, Factor: 71 - TLX_physical_demand; Metric: column 26 - meanGQ_Z  <<<<< Significant
+F = 2.205, p-value = 0.047, Factor: 71 - TLX_physical_demand; Metric: column 32 - minGQ_Z  <<<<< Significant
+F = 2.260, p-value = 0.042, Factor: 71 - TLX_physical_demand; Metric: column 33 - minGQ_RX  <<<<< Significant
+F = 3.135, p-value = 0.008, Factor: 71 - TLX_physical_demand; Metric: column 78 - NVR_Manage_Setup  <<<<< Significant
+F = 3.067, p-value = 0.013, Factor: 72 - TLX_task_pace; Metric: column 34 - minGQ_RY  <<<<< Significant
+F = 3.104, p-value = 0.012, Factor: 72 - TLX_task_pace; Metric: column 78 - NVR_Manage_Setup  <<<<< Significant
+F = 2.761, p-value = 0.016, Factor: 73 - TLX_success; Metric: column 11 - RF_Active  <<<<< Significant
+F = 2.529, p-value = 0.025, Factor: 73 - TLX_success; Metric: column 20 - Stiff_P_Z  <<<<< Significant
+F = 12.044, p-value = 0.000, Factor: 73 - TLX_success; Metric: column 47 - maxT_Z  <<<<< Significant
+F = 2.253, p-value = 0.043, Factor: 74 - TLX_Effort; Metric: column 22 - Stiff_A_Y  <<<<< Significant
+F = 2.214, p-value = 0.046, Factor: 74 - TLX_Effort; Metric: column 23 - Stiff_A_Z  <<<<< Significant
+F = 2.853, p-value = 0.014, Factor: 74 - TLX_Effort; Metric: column 32 - minGQ_Z  <<<<< Significant
+F = 2.180, p-value = 0.049, Factor: 74 - TLX_Effort; Metric: column 44 - maxF_Z  <<<<< Significant
+F = 19.414, p-value = 0.000, Factor: 74 - TLX_Effort; Metric: column 47 - maxT_Z  <<<<< Significant
+F = 2.761, p-value = 0.016, Factor: 74 - TLX_Effort; Metric: column 78 - NVR_Manage_Setup  <<<<< Significant
+F = 4.788, p-value = 0.001, Factor: 75 - TLX_Stress; Metric: column 14 - Var_Int_P_Z  <<<<< Significant
+F = 2.804, p-value = 0.020, Factor: 75 - TLX_Stress; Metric: column 32 - minGQ_Z  <<<<< Significant
+F = 3.033, p-value = 0.014, Factor: 75 - TLX_Stress; Metric: column 36 - maxGQ_X  <<<<< Significant
