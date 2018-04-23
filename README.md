@@ -39,3 +39,9 @@ For the generated metrics see folder [S2_task_analysis](https://github.com/alpai
   
 For generating the statistics see folder [S3_compute_stats](https://github.com/alpais/user_performance_estimation/tree/master/S3_compute_stats)
 
+## Reference
+
+This work is currently under review: Pais Ureche, A. L., and Billard, A. (2017) Automatic skill assessment in
+learning from demonstration. (Under Submission, 2017) 
+
+Funded in part by the European Union Seventh Framewowork Programme FP7/2007-2013 under grant agreement no 288533 ROBOHOW.COG, and by the European Commission Horizon 2020 Framework Programme, H2020-ICT-643950.
